@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Geospatial tool mapping healthcare accessibility across Nigerian states using road-network travel-time analysis, population density, and facility location data — identifying underserved communities and recommending optimal sites for new clinics.
+Geospatial tool mapping healthcare accessibility across Nigerian states using road-network travel-time analysis, population density, and facility location data, identifying underserved communities and recommending optimal sites for new clinics.
 
 ---
 
@@ -74,5 +74,5 @@ python main.py
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
